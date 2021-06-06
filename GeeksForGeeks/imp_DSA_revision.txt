@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 BitSet :
 1. Find first set bit
 2. Rightmost different bit
@@ -6,3 +7,6 @@ BitSet :
 5. Odd number from array (XOR) -> XOR all values
 6. Two different odd number (XOR) -> Separate based on last bit
 7. PowerSet Question -> iter through 0 to 2^n
+=======
+ 
+>>>>>>> 02fcd2838d4a5f0233f53479d437c0421451d198
