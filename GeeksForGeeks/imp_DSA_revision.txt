@@ -1,0 +1,8 @@
+BitSet :
+1. Find first set bit
+2. Rightmost different bit
+3. Count total set bits -> Use their apperaing pattern
+4. Find MAX AND -> Set rightmost bit and and then check
+5. Odd number from array (XOR) -> XOR all values
+6. Two different odd number (XOR) -> Separate based on last bit
+7. PowerSet Question -> iter through 0 to 2^n
