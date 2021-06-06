@@ -8,3 +8,16 @@ BitSet :
 6. Two different odd number (XOR) -> Separate based on last bit
 7. PowerSet Question -> iter through 0 to 2^n
 
+Recursion : 
+1. Tail Recusrion concept : GFG reference
+2. Palindrome check
+3. Josephus problem
+4. Subsets
+5. Tower of Hanoi
+6. Keypad problem
+
+
+Arrays : 
+1. Stock buy and sell 
+2. Trapping rain water
+3. Sm
