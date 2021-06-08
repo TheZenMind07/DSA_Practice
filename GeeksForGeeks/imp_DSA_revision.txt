@@ -8,9 +8,25 @@ BitSet :
 6. Two different odd number (XOR) -> Separate based on last bit
 7. PowerSet Question -> iter through 0 to 2^n
 
+<<<<<<< HEAD
 Trie :
 1. Search and Insert
 2. Delete
 3. Autocomplete designing
 4. Most freq string
 5. Prefix search
+=======
+Recursion : 
+1. Tail Recusrion concept : GFG reference
+2. Palindrome check
+3. Josephus problem
+4. Subsets
+5. Tower of Hanoi
+6. Keypad problem
+
+
+Arrays : 
+1. Stock buy and sell 
+2. Trapping rain water
+3. Sm
+>>>>>>> 399f6c4cb8363c41118170d848f4f5bb5b4d69ab
