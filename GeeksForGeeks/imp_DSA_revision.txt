@@ -8,3 +8,9 @@ BitSet :
 6. Two different odd number (XOR) -> Separate based on last bit
 7. PowerSet Question -> iter through 0 to 2^n
 
+Trie :
+1. Search and Insert
+2. Delete
+3. Autocomplete designing
+4. Most freq string
+5. Prefix search
