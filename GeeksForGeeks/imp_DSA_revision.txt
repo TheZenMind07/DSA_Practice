@@ -16,6 +16,25 @@ Trie :
 4. Most freq string
 5. Prefix search
 
+
+Dynamic Programming :
+1. Longest common subsequence GFG video (Diff Utility, minimum insertion or   deletion, shortest common subsequence, longest palindromic subsequence, longest           repeating subsequence, linear extra space, print lcs)
+2. Coin Change
+3. Edit distance
+4. LIS (minimum deletion for making array sorted, maximum sum increasing subsequence, bitonic sub sequence, bridges)
+5. minimum number of jumps
+6. minimum coin
+7. 0-1 knapsack
+8. optimal strategy for game
+9. Egg dropping problem
+10. Count BSTs
+11. Subset problems
+12. Maximizing cuts
+13. Matrix chain multiplications
+14. Palindrome Partitioning
+https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/
+
+
 Recursion :
 1. Tail Recusrion concept : GFG reference
 2. Palindrome check

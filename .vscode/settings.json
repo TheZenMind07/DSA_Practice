@@ -1,6 +1,7 @@
 {
         "java.project.sourcePaths": [
                 "GeeksForGeeks",
-                "CTCI"
+                "CTCI",
+                "Leetcode/DP"
         ]
 }
